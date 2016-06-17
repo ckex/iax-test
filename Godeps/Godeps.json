@@ -1,0 +1,6 @@
+{
+	"ImportPath": "iax-test",
+	"GoVersion": "devel",
+	"GodepVersion": "v62",
+	"Deps": []
+}
