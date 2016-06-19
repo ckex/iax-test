@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+godep go run main.go -coroutines=4 -reqnum=50 -interval=0 -url=http%3A%2F%2Frtb.iax.optimix.asia%2Fiax-rtb%2Floadads%3Fts%3D1466313576312%26time%3D1466313576312%26url%3Dfile%253A%252F%252F%252FUsers%252FCkex%252FDocuments%252Fworkspace%252Fssp%252Fiax-rtb%252Fstatic%252Fjs%252Fa%252Ftest%252Ftest.html%26s%3D%7B%2522iax_ad_client%2522%3A2%2C%2522iax_ad_unit%2522%3A1%2C%2522iax_ad_width%2522%3A300%2C%2522iax_ad_height%2522%3A150%7D%26ti%3DAdTest%26mk%3D%26md%3D%26callback%3Dwindow.admaxADMAX_1.serve.callback%26type%3Dbanner
